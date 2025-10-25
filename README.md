@@ -150,7 +150,7 @@ I'm always excited to collaborate on interesting projects, discuss web developme
   <a href="https://github.com/adilychaik" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-adilychaik-62FA49?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://adilychaik.netlify.app" target="_blank">
+  <a href="https://adily-chaik.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-62FA49?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
