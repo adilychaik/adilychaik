@@ -58,6 +58,9 @@ I believe in the power of clean code, intuitive interfaces, and the intersection
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="50" height="50" style="margin-right: 10px;"/>
 </div>
 
 ### Tools & Design
@@ -77,10 +80,47 @@ I believe in the power of clean code, intuitive interfaces, and the intersection
 
 ## 🎯 Featured Projects
 
-Check out my portfolio to see my work in action:
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>EzBook</strong></td>
+    <td>An exceptional online library platform for books and documents with seamless browsing and management</td>
+    <td>NextJs, Node.js, MongoDB</td>
+    <td><a href="https://ez-book.vercel.app/" target="_blank">Visit</a></td>
+  </tr>
+  <tr>
+    <td><strong>Gasy Miray</strong></td>
+    <td>Main project combining three platforms at once - a comprehensive solution between Morocco and Madagascar</td>
+    <td>Next.js, Node.js, MongoDB</td>
+    <td><a href="https://gasymiray.vercel.app/" target="_blank">Visit</a></td>
+  </tr>
+  <tr>
+    <td><strong>Vanilles de Madagascar</strong></td>
+    <td>E-commerce platform for premium Madagascar vanilla products with beautiful product showcase</td>
+    <td>Next.js, Node.js, MongoDB</td>
+    <td><a href="https://vanille-madagascar.vercel.app/" target="_blank">Visit</a></td>
+  </tr>
+  <tr>
+    <td><strong>Cigarette Electronique</strong></td>
+    <td>Modern e-commerce store for electronic cigarette products with smooth user experience</td>
+    <td>Next.js, Node.js, MongoDB</td>
+    <td><a href="https://artvape.vercel.app/" target="_blank">Visit</a></td>
+  </tr>
+</table>
+
+---
+
+## 🎯 All Projects
+
+Check out my portfolio to see more of my work in action:
 
 <div align="center">
-  <a href="https://adilychaik.netlify.app" target="_blank">
+  <a href="https://adily-chaik.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-62FA49?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
